@@ -108,6 +108,8 @@ To use Foreman, simply run `grunt <command>` in your project folder. There are c
 
 **push** *(`grunt push`)* - Builds the included Horde and Foreman library files, your Source files, and then pushes the compiled source to your Screeps account.
 
+**dev** *(`grunt dev`)* - Performs the push command and watches your files for changes. Anytime you save changes they will be pushed. Best used with a development branch in the sim
+
 ## Contributing
 
 Simply create a pull request!
